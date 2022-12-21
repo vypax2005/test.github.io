@@ -238,19 +238,18 @@ h3{
     padding-top: 30px;
 }
 .testimonials-col{
-    flex-basis: 44%;
+    flex-basis: 45%;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
     background: #fff3f3;
-    padding: 25px;
+    padding: 30px;
     cursor: pointer;
     display: flex;
-    width: 150px;
 }
 .testimonials-col img{
     height: 60px;
-    margin-left: 5px;
+    margin-left: 4px;
     margin-right: 30px;
     border-radius: 50%;
 }
